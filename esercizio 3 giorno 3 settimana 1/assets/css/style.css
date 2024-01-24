@@ -1,0 +1,39 @@
+
+main,address
+{
+    margin: 10%;
+    align-items: center;
+}
+
+header,p,div,.normale
+{
+    text-align: center;
+}
+
+
+.spazio
+{
+    color: #FFEFC8 ;
+    text-align: center;
+}
+
+.foto
+{
+    color: #999999
+}
+
+.normal
+{
+    color: black
+}
+
+
+hr 
+{
+    color: yellow;
+}
+
+.finale
+{
+    text-align: left;
+}
